@@ -1,0 +1,4 @@
+Remember - your job is just to click on the button with a huge exclamation mark and then complete a minigame. Every time you successfully complete it, your points will increase. When you fail to complete the minigame, your points shall decrease. When they hit zero, you are fired.
+When the wifi icon starts to blink, you need to change the wifi. In order to do so, you need to click on the icon and enter the password and hit ENTER to check it. If you fail to write it correctly, you can try again - you won't get fired for it, don't worry.  
+Your shift starts at 10 pm and lasts till 4 am.
+Good luck. 
